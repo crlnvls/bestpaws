@@ -1,7 +1,7 @@
 import React from "react";
 import { useParams } from "react-router-dom";
 
-function CatName() {
+function DogName() {
   const params = useParams();
   return (
     <>
@@ -10,4 +10,4 @@ function CatName() {
   );
 }
 
-export default CatName;
+export default DogName;
