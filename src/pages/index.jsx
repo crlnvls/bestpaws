@@ -1,0 +1,10 @@
+export { default as Home } from "./Home";
+export { default as About } from "./About";
+export { default as Adoption } from "./Adoption";
+export { default as Care } from "./Care";
+export { default as CatName } from "./CatName";
+export { default as Cats } from "./Cats";
+export { default as DogName } from "./DogName";
+export { default as Dogs } from "./Dogs";
+export { default as Login } from "./Login";
+export { default as Register } from "./Register";
