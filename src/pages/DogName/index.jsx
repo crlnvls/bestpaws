@@ -2,10 +2,10 @@ import React from "react";
 import { useParams } from "react-router-dom";
 
 function DogName() {
-  const params = useParams();
+  const { name } = useParams();
   return (
     <>
-      <h1>{params.name}</h1>
+      <h1>{name}</h1>
     </>
   );
 }
