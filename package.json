@@ -1,0 +1,29 @@
+{
+  "name": "bestpaws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crlnvls/bestpaws.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crlnvls/bestpaws/issues"
+  },
+  "homepage": "https://github.com/crlnvls/bestpaws#readme",
+  "devDependencies": {
+    "vite": "^4.1.1"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
