@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/crlnvls/bestpaws#readme",
   "devDependencies": {
+    "@babel/preset-react": "^7.18.6",
+    "@babel/preset-env": "^7.20.2",
     "vite": "^4.1.1"
   },
   "dependencies": {
